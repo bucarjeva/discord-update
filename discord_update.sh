@@ -14,6 +14,6 @@ sudo chmod u+x /opt/discord/discord.desktop
 sudo ln -sf -v /opt/discord/Discord /usr/bin/discord
 
 # to launch from menu
-sudo cp -r -v /opt/Discord/discord.desktop /usr/share/applications
+sudo cp -r -v /opt/discord/discord.desktop /usr/share/applications
 
 exit 0
