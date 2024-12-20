@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo "Home directory (using ~): $HOME"
-echo "Home directory (using $HOME variable): $(echo "$HOME")"
+
 # path to discord-x.x.xx.tar.gz
 file_path="$HOME/Downloads"
 
